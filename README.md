@@ -9,7 +9,7 @@
 
 <h3 align="left">📧 Email</h3>
 <p align="left">
-  if you prefer you can send me an email to <a href="mailto:miguel.alfva@hotmail.com">miguel.alfva@hotmail.com</span>
+  if you prefer you can send me an email to <a href="mailto:miguel.alfva@hotmail.com">miguel.alfva@hotmail.com</a></span>
 </p>
 
 <h3 align="left">📚 Recent projects</h3>
@@ -25,7 +25,49 @@
 </p>
 
 <h3 align="left">💻 Languages and Tools:</h3>
-<p align="left"> 
+<br>
+<div alig="left">
+  <img src="https://img.shields.io/badge/-PHP-292e33?logo=php&style=flat-square" />
+  <img src="https://img.shields.io/badge/-Python-292e33?logo=python&style=flat-square" />
+  <img src="https://img.shields.io/badge/-JavaScript-292e33?logo=javaScript&style=flat-square" />
+</div>
+<br/>
+<div alig="left">
+  <img src="https://img.shields.io/badge/-Larave-292e33?logo=Laravel&style=flat-square" />
+  <img src="https://img.shields.io/badge/-Codeigniter-292e33?logo=CodeIgniter&style=flat-square" />
+  <img src="https://img.shields.io/badge/-Jquery-292e33?logo=jQuery&style=flat-square" />
+  <img src="https://img.shields.io/badge/-React-292e33?logo=React&style=flat-square" />
+  <img src="https://img.shields.io/badge/-Ionic-292e33?logo=Ionic&style=flat-square" />
+  <img src="https://img.shields.io/badge/-Django-292e33?logo=Django&style=flat-square" />
+</div>
+<br/>
+<div alig="left">
+  <img src="https://img.shields.io/badge/-MYSQL-292e33?logo=MySQL&style=flat-square" />
+  <img src="https://img.shields.io/badge/-MSSQL-292e33?logo=MicrosoftSQLServer&style=flat-square" />
+  <img src="https://img.shields.io/badge/-MongoDB-292e33?logo=MongoDB&style=flat-square" />
+</div>
+<br/>
+<div alig="left">
+  <img src="https://img.shields.io/badge/-Git-292e33?logo=Git&style=flat-square" />
+  <img src="https://img.shields.io/badge/-Selenium-292e33?logo=Selenium&style=flat-square" />
+  <img src="https://img.shields.io/badge/-Docker-292e33?logo=Docker&style=flat-square" />
+</div>
+
+<div align="center">
+  <p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelalf&langs_count=4&layout=compact&theme=prussian&count_private=true" alt="miguelalf" />
+  </p>
+  <p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=miguelalf&theme=prussian&show_icons=true&locale=en" alt="miguelalf" />
+  </p>
+  <p>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=miguelalf&theme=prussian" alt="miguelalf" />
+  </p>
+</div>
+
+<br/>
+
+<p align="center"> 
   <a href="https://www.gnu.org/software/bash/" target="_blank">
     <svg>
       <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" title="BASH" alt="BASH" width="40" height="40" bgcolor="white" />
@@ -73,6 +115,8 @@
   <a href="https://laravel.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40" title="Laravel"/>
   </a>
+ </p>
+ <p align="center">
   <a href="https://www.linux.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" title="Linux"/>
   </a>
@@ -103,9 +147,6 @@
   <a href="https://reactjs.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" title="React"/>
   </a>
-  <a href="https://reactnative.dev/" target="_blank">
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40" title="React Native"/>
-  </a>
   <a href="https://redux.js.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40" title="Redux"/>
   </a>
@@ -122,18 +163,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" title="Typescript"/>
   </a>
 </p>
-
-<div align="center">
-  <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelalf&langs_count=4&layout=compact&theme=prussian&count_private=true" alt="miguelalf" />
-  </p>
-  <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=miguelalf&theme=prussian&show_icons=true&locale=en" alt="miguelalf" />
-  </p>
-  <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=miguelalf&theme=prussian" alt="miguelalf" />
-  </p>
-</div>
 
 <!--
 **miguelalf/miguelalf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
