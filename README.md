@@ -1,5 +1,4 @@
 <h2 align="center">Hi 👋, I'm Miguel</h2>
-
 <p>I'm a full stack web developer who likes to work in different languages and eviroments.</p>
 
 <h3 align="left">📫 My tech profiles</h3>
@@ -8,7 +7,24 @@
   <a href="https://tryhackme.com/p/m0rb0"><img src="https://img.shields.io/badge/-TRYHACKME-critical?style=for-the-badge&logo=tryhackme" /></a>
 </p>
 
-<h3 align="left">⚡ Languages and Tools:</h3>
+<h3 align="left">📧 Email</h3>
+<p align="left">
+  if you prefer you can send me an email to <a href="mailto:miguel.alfva@hotmail.com">miguel.alfva@hotmail.com</span>
+</p>
+
+<h3 align="left">📚 Recent projects</h3>
+<p align="left">
+  <ul>
+    <li>
+      <a href="https://cryptotracker-master.netlify.app" rel="nofollow" target="_blank">Cryptotracker</a> contributed building the auth process and 2fa system
+    </li>
+    <li>
+      <a href="https://boteadora.com" rel="nofollow" target="_blank">Boteadora</a> an example of a crowdfunding app
+    </li>
+  </ul>
+</p>
+
+<h3 align="left">💻 Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.gnu.org/software/bash/" target="_blank">
     <svg>
@@ -109,13 +125,13 @@
 
 <div align="center">
   <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=miguelalf&theme=dracula&show_icons=true&locale=en" alt="miguelalf" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelalf&langs_count=4&layout=compact&theme=prussian&count_private=true" alt="miguelalf" />
   </p>
   <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelalf&theme=dracula&count_private=true&hide=css,blade" alt="miguelalf" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=miguelalf&theme=prussian&show_icons=true&locale=en" alt="miguelalf" />
   </p>
   <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=miguelalf&theme=dracula" alt="miguelalf" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=miguelalf&theme=prussian" alt="miguelalf" />
   </p>
 </div>
 
