@@ -5,6 +5,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/miguelalfva/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://tryhackme.com/p/m0rb0"><img src="https://img.shields.io/badge/-TRYHACKME-critical?style=for-the-badge&logo=tryhackme" /></a>
+  <a href="https://www.hackerrank.com/miguel_alfva"><img src="https://img.shields.io/badge/-HACKERRANK-333333?style=for-the-badge&logo=HackerRank" /></a>
 </p>
 
 <h3 align="left">📧 Email</h3>
