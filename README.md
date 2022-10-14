@@ -8,11 +8,6 @@
   <a href="https://www.hackerrank.com/miguel_alfva"><img src="https://img.shields.io/badge/-HACKERRANK-333333?style=for-the-badge&logo=HackerRank" /></a>
 </p>
 
-<h3 align="left">📧 Email</h3>
-<p align="left">
-  if you prefer you can send me an email to <a href="mailto:miguel.alfva@hotmail.com">miguel.alfva@hotmail.com</a></span>
-</p>
-
 <h3 align="left">📚 Recent projects</h3>
 <p align="left">
   <ul>
