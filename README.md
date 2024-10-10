@@ -49,7 +49,7 @@
   <img src="https://img.shields.io/badge/-Docker-292e33?logo=Docker&style=flat-square" />
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelalf&langs_count=4&layout=compact&theme=prussian&count_private=true" alt="miguelalf" />
   </p>
@@ -59,7 +59,7 @@
   <p>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=miguelalf&theme=prussian" alt="miguelalf" />
   </p>
-</div>
+</div> -->
 
 <br/>
 
@@ -109,7 +109,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" title="JS"/>
   </a>
   <a href="https://laravel.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40" title="Laravel"/>
+    <img src="https://laravel.com/img/logomark.min.svg" alt="laravel" width="40" height="40" title="Laravel"/>
   </a>
  </p>
  <p align="center">
