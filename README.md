@@ -62,6 +62,8 @@
 
 <h3 align="left">👯 I’m looking to collaborate on:</h3>
 
+<br/>
+
 <p align="center"> 
   <a href="https://www.gnu.org/software/bash/" target="_blank" style="display: inline-table;">
     <svg>
@@ -161,7 +163,7 @@
 
 <p align="center">
   <a href="https://tailwindcss.com" target="_blank" style="display: inline-table;">
-    <img src="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/HEAD/.github/logo-light.svg" alt="tailwind" width="40" height="40" title="Tailwind"/>
+    <img src="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/HEAD/.github/logo-dark.svg#gh-dark-mode-only" alt="tailwind" width="40" height="40" title="Tailwind"/>
   </a>
   <a href="https://reflex.dev" target="_blank" style="display: inline-table;">
     <img src="https://raw.githubusercontent.com/reflex-dev/reflex/main/docs/images/reflex_light.svg#gh-dark-mode-only" alt="reflex" width="40" height="40" title="Reflex"/>
