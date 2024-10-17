@@ -12,10 +12,7 @@
 <p align="left">
   <ul>
     <li>
-      <a href="https://cryptotracker-master.netlify.app" rel="nofollow" target="_blank">Cryptotracker</a> contributed building the auth process and 2fa system
-    </li>
-    <li>
-      <a href="https://boteadora.com" rel="nofollow" target="_blank">Boteadora</a> an example of a crowdfunding app
+      Pendding
     </li>
   </ul>
 </p>
@@ -82,7 +79,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" title="CSS"/>
   </a>
   <a href="https://www.djangoproject.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40" title="Django"/>
+    <img src="https://static.djangoproject.com/img/logo-django.42234b631760.svg" alt="django" width="40" height="40" title="Django"/>
   </a>
   <a href="https://www.docker.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" title="Docker"/>
