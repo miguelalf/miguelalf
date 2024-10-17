@@ -60,7 +60,7 @@
 
 <br/>
 
-<h3 align="left">👯 I’m looking to collaborate on:</h3>
+<h3 align="left">👯 I’m looking to collaborate on different kind of projects:</h3>
 
 <br/>
 
