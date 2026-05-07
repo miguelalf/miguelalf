@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm Miguel</h2>
-<p>I'm a full stack web developer who likes to work in different languages and eviroments.</p>
+<p>Full-stack web developer with experience across multiple languages and environments, continuously expanding expertise in cybersecurity.</p>
 
 <h3 align="left">📫 My tech profiles</h3>
 <p align="center">
@@ -23,6 +23,7 @@
   <img src="https://img.shields.io/badge/-PHP-292e33?logo=php&style=flat-square" />
   <img src="https://img.shields.io/badge/-Python-292e33?logo=python&style=flat-square" />
   <img src="https://img.shields.io/badge/-JavaScript-292e33?logo=javaScript&style=flat-square" />
+  <img src="https://img.shields.io/badge/-C#-512BD4?logo=C#&style=flat-square" />
 </div>
 <br/>
 <div alig="left">
@@ -44,6 +45,7 @@
   <img src="https://img.shields.io/badge/-Git-292e33?logo=Git&style=flat-square" />
   <img src="https://img.shields.io/badge/-Selenium-292e33?logo=Selenium&style=flat-square" />
   <img src="https://img.shields.io/badge/-Docker-292e33?logo=Docker&style=flat-square" />
+  <img src="https://img.shields.io/badge/-Jenkins-D24939?logo=Jenkins&style=flat-square" />
 </div>
 
 <!-- <div align="center">
@@ -65,53 +67,24 @@
 <br/>
 
 <div align="center">
-  <a href="https://git-scm.com/" target="_blank" style="display: inline-block; text-decoration: none">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" title="Git"/>
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" style="display: inline-block; text-decoration: none">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" title="BASH" alt="BASH" width="40" height="40" bgcolor="white" />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" style="display: inline-block; text-decoration: none">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" title="HTML"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" style="display: inline-block; text-decoration: none">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" title="CSS"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="display: inline-block; text-decoration: none">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" title="JavaScript"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" style="display: inline-block; text-decoration: none">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" title="Typescript"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" style="display: inline-block; text-decoration: none">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40" title="Bootstrap"/>
-  </a>
-  <a href="https://www.chartjs.org" target="_blank" style="display: inline-block; text-cecoration: none">
-    <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40" title="Chartjs"/>
-  </a>
-  <a href="https://codeigniter.com" target="_blank" style="display: inline-block; text-decoration: none">
-    <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40" title="Codeigniter"/>
-  </a>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" title="Git"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" title="BASH" alt="BASH" width="40" height="40" bgcolor="white" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" title="HTML"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" title="CSS"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript" width="40" height="40" title="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="Typescript" width="40" height="40" title="Typescript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40" title="Bootstrap"/>
+  <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40" title="Chartjs"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40" title="Codeigniter"/>
   
-  <a href="https://www.djangoproject.com/" target="_blank" style="display: inline-block; text-decoration: none">
-    <img src="https://static.djangoproject.com/img/logo-django.42234b631760.svg" alt="django" width="40" height="40" title="Django"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" style="display: inline-block; text-decoration: none">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" title="Docker"/>
-  </a>
-  <a href="https://graphql.org" target="_blank" style="display: inline-block; text-decoration: none">
-    <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40" title="GraphQL"/>
-  </a>
-  <a href="https://heroku.com" target="_blank" style="display: inline-block; text-decoration: none">
-    <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40" title="Heroku"/>
-  </a>
-  <a href="https://ionicframework.com" target="_blank" style="display: inline-block; text-decoration: none">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="Ionic" width="40" height="40"/>
-  </a>
-  <a href="https://laravel.com/" target="_blank" style="display: inline-block; text-decoration: none">
-    <img src="https://laravel.com/img/logomark.min.svg" alt="laravel" width="40" height="40" title="Laravel"/>
-  </a>
+  <img src="https://static.djangoproject.com/img/logo-django.42234b631760.svg" alt="django" width="40" height="40" title="Django"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" title="Docker"/>
+  <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40" title="GraphQL"/>
+  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40" title="Heroku"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="Ionic" width="40" height="40"/>
+  <img src="https://laravel.com/img/logomark.min.svg" alt="laravel" width="40" height="40" title="Laravel"/>
  </div>
+ 
  <div align="center">
   <a href="https://www.linux.org/" target="_blank" style="display: inline-table;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" title="Linux"/>
@@ -158,12 +131,8 @@
 </div>
 
 <div align="center">
-  <a href="https://tailwindcss.com" target="_blank" style="display: inline-block;">
-    <img src="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/HEAD/.github/logo-dark.svg#gh-dark-mode-only" alt="tailwind" width="40" height="40" title="Tailwind"/>
-  </a>
-  <a href="https://reflex.dev" target="_blank" style="display: inline-block;">
-    <img src="https://raw.githubusercontent.com/reflex-dev/reflex/main/docs/images/reflex_light.svg#gh-dark-mode-only" alt="reflex" width="40" height="40" title="Reflex"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/HEAD/.github/logo-dark.svg#gh-dark-mode-only" alt="tailwind" width="40" height="40" title="Tailwind"/>
+  <img src="https://raw.githubusercontent.com/reflex-dev/reflex/main/docs/images/reflex_light.svg#gh-dark-mode-only" alt="reflex" width="40" height="40" title="Reflex"/>
 </div>
 
 <!--
