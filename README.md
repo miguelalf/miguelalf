@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/-PHP-292e33?logo=php&style=flat-square" />
   <img src="https://img.shields.io/badge/-Python-292e33?logo=python&style=flat-square" />
   <img src="https://img.shields.io/badge/-JavaScript-292e33?logo=javaScript&style=flat-square" />
-  <img src="https://img.shields.io/badge/-C#-292e33?logo=.NET&style=flat-square" />
+  <img src="https://img.shields.io/badge/-CSharp-292e33?logo=.NET&style=flat-square" />
 </div>
 <br/>
 <div alig="left">
@@ -67,44 +67,34 @@
 <br/>
 
 <div align="center">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" title="Git"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" title="BASH" alt="BASH" width="40" height="40" bgcolor="white" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" title="HTML"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" title="CSS"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript" width="40" height="40" title="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="Typescript" width="40" height="40" title="Typescript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40" title="Bootstrap"/>
-  <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40" title="Chartjs"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40" title="Codeigniter"/>
-  
-  <img src="https://static.djangoproject.com/img/logo-django.42234b631760.svg" alt="django" width="40" height="40" title="Django"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" title="Docker"/>
-  <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40" title="GraphQL"/>
-  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40" title="Heroku"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="Ionic" width="40" height="40"/>
-  <img src="https://laravel.com/img/logomark.min.svg" alt="laravel" width="40" height="40" title="Laravel"/>
- </div>
- 
- <div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" title="Linux"/>
-  <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40" title="Materialize"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" title="Mongo"/>
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40" title="MSSQL"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" title="MYSQL"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" alt="Node"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" title="PHP <3"/>
-  <img src="https://pandas.pydata.org/static/img/pandas_white.svg" alt="pandas" width="40" height="40" title="Pandas"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" title="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" title="React"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40" title="Redux"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40" title="SciKit"/>
-  <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40" title="Selenium"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" title="Tensorflow"/>
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/HEAD/.github/logo-dark.svg#gh-dark-mode-only" alt="tailwind" width="40" height="40" title="Tailwind"/>
-  <img src="https://raw.githubusercontent.com/reflex-dev/reflex/main/docs/images/reflex_light.svg#gh-dark-mode-only" alt="reflex" width="40" height="40" title="Reflex"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="auto" height="40" title="Git" align="left" style="margin-right: 10px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" title="BASH" alt="BASH" width="auto" height="40" bgcolor="white" align="left" style="margin-right: 10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="auto" height="40" title="HTML" align="left" style="margin-right: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="auto" height="40" title="CSS" align="left" style="margin-right: 10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript" width="auto" height="40" title="JavaScript" align="left" style="margin-right: 10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="Typescript" width="auto" height="40" title="Typescript" align="left" style="margin-right: 10px;" />
+  <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="auto" height="40" title="Chartjs" align="left" style="margin-right: 10px;"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="auto" height="40" title="Codeigniter" align="left" style="margin-right: 10px;"/>
+  <img src="https://static.djangoproject.com/img/logo-django.42234b631760.svg" alt="django" width="auto" height="40" title="Django" align="left" style="margin-right: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="auto" height="40" title="Docker" align="left" style="margin-right: 10px;"/>
+  <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="auto" height="40" title="GraphQL" align="left" style="margin-right: 10px;"/>
+  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="auto" height="40" title="Heroku" align="left" style="margin-right: 10px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="Ionic" width="auto" height="40" align="left" style="margin-right: 10px;"/>
+  <img src="https://laravel.com/img/logomark.min.svg" alt="laravel" width="auto" height="auto" title="Laravel" align="left" style="margin-right: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="auto" height="40" title="Linux" align="left" style="margin-right: 10px;"/>
+  <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="auto" height="40" title="Materialize" align="left" style="margin-right: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="auto" height="40" title="Mongo" align="left" style="margin-right: 10px;"/>
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="auto" height="40" title="MSSQL" align="left" style="margin-right: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="auto" height="40" title="MYSQL" align="left" style="margin-right: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="auto" height="40" alt="Node" align="left" style="margin-right: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="auto" title="PHP <3" align="left" style="margin-right: 10px;"/>
+  <img src="https://pandas.pydata.org/static/img/pandas_white.svg" alt="pandas" width="auto" height="40" title="Pandas" align="left" style="margin-right: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="auto" height="40" title="Python" align="left" style="margin-right: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="auto" height="40" title="React" align="left" style="margin-right: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="auto" height="40" title="Redux" align="left" style="margin-right: 10px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="auto" height="40" title="SciKit" align="left" style="margin-right: 10px;"/>
+  <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="auto" height="40" title="Selenium" align="left" style="margin-right: 10px;"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="auto" height="40" title="Tensorflow" align="left" style="margin-right: 10px;"/>
 </div>
 
 <!--
