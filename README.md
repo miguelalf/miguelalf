@@ -18,12 +18,12 @@
 </p>
 
 <h3 align="left">💻 Languages and Tools:</h3>
-<br>
+<br/>
 <div alig="left">
   <img src="https://img.shields.io/badge/-PHP-292e33?logo=php&style=flat-square" />
   <img src="https://img.shields.io/badge/-Python-292e33?logo=python&style=flat-square" />
   <img src="https://img.shields.io/badge/-JavaScript-292e33?logo=javaScript&style=flat-square" />
-  <img src="https://img.shields.io/badge/-C#-512BD4?logo=C#&style=flat-square" />
+  <img src="https://img.shields.io/badge/-C#-292e33?logo=.NET&style=flat-square" />
 </div>
 <br/>
 <div alig="left">
@@ -45,7 +45,7 @@
   <img src="https://img.shields.io/badge/-Git-292e33?logo=Git&style=flat-square" />
   <img src="https://img.shields.io/badge/-Selenium-292e33?logo=Selenium&style=flat-square" />
   <img src="https://img.shields.io/badge/-Docker-292e33?logo=Docker&style=flat-square" />
-  <img src="https://img.shields.io/badge/-Jenkins-D24939?logo=Jenkins&style=flat-square" />
+  <img src="https://img.shields.io/badge/-Jenkins-292e33?logo=Jenkins&style=flat-square" />
 </div>
 
 <!-- <div align="center">
@@ -86,48 +86,20 @@
  </div>
  
  <div align="center">
-  <a href="https://www.linux.org/" target="_blank" style="display: inline-table;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" title="Linux"/>
-  </a>
-  <a href="https://materializecss.com/" target="_blank" style="display: inline-table;">
-    <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40" title="Materialize"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" style="display: inline-table;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" title="Mongo"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" style="display: inline-table;">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40" title="MSSQL"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" style="display: inline-table;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" title="MYSQL"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" style="display: inline-table;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" alt="Node"/>
-  </a>
-  <a href="https://www.php.net" target="_blank" style="display: inline-table;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" title="PHP <3"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" style="display: inline-table;">
-    <img src="https://pandas.pydata.org/static/img/pandas_white.svg" alt="pandas" width="40" height="40" title="Pandas"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" style="display: inline-table;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" title="Python"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" style="display: inline-table;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" title="React"/>
-  </a>
-  <a href="https://redux.js.org" target="_blank" style="display: inline-table;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40" title="Redux"/>
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" style="display: inline-table;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40" title="SciKit"/>
-  </a>
-  <a href="https://www.selenium.dev" target="_blank" style="display: inline-table;">
-    <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40" title="Selenium"/>
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank" style="display: inline-table;">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" title="Tensorflow"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" title="Linux"/>
+  <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40" title="Materialize"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" title="Mongo"/>
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40" title="MSSQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" title="MYSQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" alt="Node"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" title="PHP <3"/>
+  <img src="https://pandas.pydata.org/static/img/pandas_white.svg" alt="pandas" width="40" height="40" title="Pandas"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" title="Python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" title="React"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40" title="Redux"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40" title="SciKit"/>
+  <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40" title="Selenium"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" title="Tensorflow"/>
 </div>
 
 <div align="center">
